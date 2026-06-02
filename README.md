@@ -1,9 +1,6 @@
-# my-first-repo
+## What I Learned Today
 
-# My First Repository
-A begginer GitHub project
-created during the work shop
-
-## About Me
-My name is **Shehan**
-I am learning GitHub
+I am currently attending a GitHub workshop
+Today I learned about: - Version control - Creating a 
+respository - The edit - commit - push cycle
+My GitHub respository profile:https://github.com/shehan-cmd
